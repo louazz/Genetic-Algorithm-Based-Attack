@@ -1,4 +1,4 @@
-# Genetic Algorithm-based attack on the vigenère cipher
+# Genetic Algorithm-based Attack
 The file above contains the code of a genetic algorithm based attack that manages to break polymorphic substitution ciphers
 
 # Process
